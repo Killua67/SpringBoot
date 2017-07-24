@@ -11,3 +11,10 @@
 7. shiro(登录认证和权限管理)
 
 代码中有很多注释，仅供学习使用
+
+推荐学习springBoot网站
+http://www.ityouknow.com/spring-boot(学习网站)
+http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html
+(原大佬博主推荐的学习网站)
+
+QQ：794448502
