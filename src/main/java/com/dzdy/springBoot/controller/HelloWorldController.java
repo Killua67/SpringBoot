@@ -16,13 +16,16 @@ import com.dzdy.springBoot.domain.User;
 import com.dzdy.springBoot.domain.User2;
 import com.dzdy.springBoot.mapper.UserRepository;
 
+/**
+ * @author wangzhiyong
+ */
 //@RestController的意思就是controller里面的方法都以json格式输出
 @RestController
 public class HelloWorldController {
 	
-	protected static Logger logger=LoggerFactory.getLogger(HelloWorldController.class);
+	private static Logger logger=LoggerFactory.getLogger(HelloWorldController.class);
 	
-	@Autowired
+	@Resource
 	private User2 user; 
 
 	@Resource

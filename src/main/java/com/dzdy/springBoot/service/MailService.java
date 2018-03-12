@@ -1,13 +1,10 @@
 package com.dzdy.springBoot.service;
 
-import org.springframework.stereotype.Service;
-
 /**
  * 邮件服务
  * @author wangzhiyong
  *
  */
-@Service
 public interface MailService {
 	
 	/**
